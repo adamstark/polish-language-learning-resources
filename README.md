@@ -67,3 +67,7 @@ Other courses are available and I am sure they are great too, but I can't really
 7. Learn vocabulary... it's good just have an app (I use [Wokabulary](https://wokabulary.com)) and just keep throwing words into it every time you encounter them and think you should know them. E.g. I'll read a book chapter and underline the words I don't know (quickly translating as I go to get the meaning). Then I go back a second time and put (most of) those words into my vocab app.
 8. Don't be afraid of material that's a little more advanced than your current language level. Try and understand what you can and the unknown words and language structure will quietly register itself somewhere in your brain.
 9. Do at least a little bit of learning every day, sometimes more... If you're tired and can't read books or learn vocab & grammar, just watch an [EasyPolish](https://www.youtube.com/@EasyPolish) video on YouTube
+
+# My Vocabulary Lists
+
+I've included some vocab list in the [Vocabulary](Vocabulary) folder
