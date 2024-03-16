@@ -39,7 +39,7 @@ I started with Duolingo, as I'm sure many of you have. As I needed to move furth
 
 ## Grammar Explainers
 
-Below are some links to resources - right now wholly from the [Clozemaster Blog](https://blog.clozemaster.com/topics/learn-polish/) and their [grammar explainers](https://www.clozemaster.com/blog/topics/learn-polish/polish-grammar/) that I have found really useful. There are many more useful posts on their blog, but these ones I've gone back to again and again. They are **in depth**, so don't expect to understand everything with a single read. But they are very comprehensive and clear.
+Below are some links to resources - right now wholly from the [Clozemaster Blog](https://blog.clozemaster.com/topics/learn-polish/) and their [grammar explainers](https://www.clozemaster.com/blog/topics/learn-polish/polish-grammar/) (⭐) that I have found really useful. There are many more useful posts on their blog, but these ones I've gone back to again and again. They are **in depth**, so don't expect to understand everything with a single read. But they are very comprehensive and clear.
 
 * [Clozemaster: Polish Verbs of Motion “iść”, “jechać”, and Other Related Verbs](https://www.clozemaster.com/blog/polish-verbs-of-motion/)
 * [Clozemaster: Making Sense of Polish Personal Pronouns](https://www.clozemaster.com/blog/polish-personal-pronouns/)
