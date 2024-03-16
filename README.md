@@ -1,6 +1,6 @@
 # Polish Language Learning Resources
 
-This is a collection of useful links and resources that I have been using to learn Polish. I hope they can help someone! If you have some suggestions to add please feel free to contribute via a pull request. 
+This is a collection of useful links and resources that I have been using to learn Polish. I hope they can help someone! If you have some suggestions to add please feel free to contribute by sending me a message or opening a pull request. 
 
 I've put a ⭐ by the things I use the most, in case that helps guide you. But I've only included useful resources here so do check out everything.
 
@@ -14,6 +14,7 @@ I use a range of different sites for translating words. It would be nice if ther
 * [Cooljugator](https://cooljugator.com/pl) ⭐
 * [Google Translate](https://translate.google.co.uk/?sl=pl&tl=en&op=translate) ⭐
 * [iTranslate](https://itranslate.com/) - I use their app on my Mac toolbar for convenience ⭐
+* [Forvo: Polish pronunciation dictionary](https://forvo.com/languages/pl/) - useful if you want examples of how a word should be pronounced 
 
 ## YouTube Channels
 
