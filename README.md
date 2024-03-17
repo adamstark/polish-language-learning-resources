@@ -14,13 +14,13 @@ I use a range of different sites for translating words. It would be nice if ther
 * [Cooljugator](https://cooljugator.com/pl) ⭐
 * [Google Translate](https://translate.google.co.uk/?sl=pl&tl=en&op=translate) ⭐
 * [iTranslate](https://itranslate.com/) - I use their app on my Mac toolbar for convenience ⭐
-* [Forvo: Polish pronunciation dictionary](https://forvo.com/languages/pl/) - useful if you want examples of how a word should be pronounced 
+* [Forvo: Polish pronunciation dictionary](https://forvo.com/languages/pl/) - useful if you want examples of how a word should be pronounced
 
 ## YouTube Channels
 
 Some very useful channels that range from lessons to cultural interviews. Some are simple grammar explanations and some are more like 'comprehensible input' materials.
 
-* [EasyPolish](https://www.youtube.com/@EasyPolish) (my favourite, highly recommended!) ⭐
+* [EasyPolish](https://www.youtube.com/@EasyPolish) ⭐ (my favourite, highly recommended!) 
 * [Polish with Dorota](https://www.youtube.com/@PolishwithDorota)
 * [Polish with Monika](https://www.youtube.com/@PolishwithMonika)
 * [Polish with Blondes](https://www.youtube.com/@polishwithblondes)
@@ -29,10 +29,16 @@ Some very useful channels that range from lessons to cultural interviews. Some a
 
 I started with Duolingo, as I'm sure many of you have. As I needed to move further with the language I've found I needed ways to manage vocabulary outside of Duolingo too.
 
-* [Wokabulary](https://wokabulary.com) - a brilliant vocab app for Apple platforms, I use it daily ⭐
+* [Wokabulary](https://wokabulary.com) ⭐ - a brilliant vocab app for Apple platforms, I use it daily 
 * [Quizlet](https://quizlet.com/)
 * [Duolingo](https://www.duolingo.com)
-  
+
+## Learning with AI Chat Tools
+
+I have found it very useful to put things I don't understand into [Chat GPT](https://chat.openai.com/) and have them explained to me. This gives you the opportunity to follow up with "yeah, but why?" and get explanations. I have also used this to get feedback on my written work.
+
+Caveat: I never use this to translate large blocks of text... it could probably do it, but I would learn nothing. I normally work with it a sentence at a time and get specific feedback on why the sentence is in that given form.
+
 ## Vocabulary Lists
 
 * [easy-polish.com](https://easy-polish.com/en/) - many vocabulary lists (I _believe_ this is different to the EasyPolish channel mentioned above)
@@ -55,8 +61,14 @@ Other courses are available and I am sure they are great too, but I can't really
 ## Podcasts
 
 * [Learn Real Polish](https://realpolish.pl/) - Lots of other great audio material on the site too
-  
-## Other Advice
+
+# My Vocabulary Lists
+
+I've included some vocab list in the [Vocabulary](Vocabulary) folder
+
+# Other Advice
+
+I haven't mastered Polish yet, but I have managed to make some progress over time. Here are some notes on things that have helped:
 
 1. Go to Poland, meet polish people, eat polish food and drink polish beer!
 2. Marry a Pole 😉
@@ -64,10 +76,6 @@ Other courses are available and I am sure they are great too, but I can't really
 4. Duolingo is a great introduction to a language, but know when it is time to add other materials too
 5. Read, particularly [graded readers](https://en.wikipedia.org/wiki/Graded_reader)
 6. Your brain won't remember anything it doesn't consider valuable. That's a good thing. But it means that you can't just learn vocabulary lists - you need to hear the word in conversations, YouTube videos, read it in books, etc. Send signals to your brain that it should remember the word more deeply.
-7. Learn vocabulary... it's good just have an app (I use [Wokabulary](https://wokabulary.com)) and just keep throwing words into it every time you encounter them and think you should know them. E.g. I'll read a book chapter and underline the words I don't know (quickly translating as I go to get the meaning). Then I go back a second time and put (most of) those words into my vocab app.
+7. Learn vocabulary... it's good to have an app (I use [Wokabulary](https://wokabulary.com)) and just keep throwing words into it every time you encounter them and think you should know them. E.g. I'll read a book chapter and underline the words I don't know (quickly translating as I go to get the meaning). Then I go back a second time and put (most of) those words into my vocab app.
 8. Don't be afraid of material that's a little more advanced than your current language level. Try and understand what you can and the unknown words and language structure will quietly register itself somewhere in your brain.
 9. Do at least a little bit of learning every day, sometimes more... If you're tired and can't read books or learn vocab & grammar, just watch an [EasyPolish](https://www.youtube.com/@EasyPolish) video on YouTube
-
-# My Vocabulary Lists
-
-I've included some vocab list in the [Vocabulary](Vocabulary) folder
